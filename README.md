@@ -1,1 +1,1 @@
-# icse2018
+# StatType
